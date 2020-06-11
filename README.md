@@ -1,2 +1,2 @@
-# MrRedacted.github.io
+# mrredacted.github.io
 My personal portfolio page
