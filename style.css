@@ -290,4 +290,7 @@ ul {
   .nav-links {
    margin-right: 0rem;
   }
+  .contact-area ul {
+    flex-direction: column;
+  }
 }
