@@ -41,6 +41,7 @@ ul {
   flex-direction: row;
   justify-content: flex-end;
   box-shadow: 0 .2rem rgba(0,0,0,.8);
+  z-index: 9001;
 }
 
 .nav-links {
