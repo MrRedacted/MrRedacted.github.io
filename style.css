@@ -84,10 +84,30 @@ ul {
 }
 
 .welcome p {
+  color: white;
+  font-size: 3rem;
+  text-shadow: .7rem .6rem .5rem #000000;
+}
+
+.languages li, .certifications li a {
   color: #0066cc;
   font-size: 2.5rem;
   text-shadow: .7rem .6rem .5rem #000000;
+  margin: 1rem;
 }
+
+.certifications li a {
+  text-decoration: underline;
+}
+
+.languages, .certifications {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+
 
 /* welcome-e */
 
